@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-# Anime Reel Ins
+# Anime Reel Inspired
 
 ### WebGL × Gesture Interaction 
 
