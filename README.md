@@ -55,10 +55,7 @@ The project blends:
 * WebGL particle systems
 * MediaPipe gesture tracking
 * Post-processing effects (Bloom, energy glow)
-* Cinematic motion logic
-
-This is not a static webpage.
-It is a real-time visual system running entirely in the browser.
+* motion logic
 
 ---
 
@@ -70,19 +67,13 @@ It is a real-time visual system running entirely in the browser.
 * Dynamic state transitions
 * Live particle morphing
 
-## Cinematic Rendering
+## Rendering
 
 * 20K+ particle field
 * Additive blending energy effects
 * Unreal Bloom post-processing
 * Grain overlay for texture depth
 * Camera shake under high-intensity states
-
-## Modular Architecture
-
-* ES Module based structure
-* Clean separation of rendering, input, and animation logic
-* Responsive viewport handling
 
 ---
 
@@ -106,18 +97,6 @@ Because the project uses ES Modules and webcam permissions, it must run on a loc
 2. Install Live Server
 3. Right-click index.html
 4. Open with Live Server
-
-### Option 2 — Python
-
-```
-python -m http.server 8000
-```
-
-Then open:
-
-```
-http://localhost:8000
-```
 
 ---
 
