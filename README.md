@@ -147,5 +147,4 @@ GitHub:
 [https://github.com/1sarthak7](https://github.com/1sarthak7)
 
 ---
-
-If this project inspired you, consider starring the repository and exploring more experimental WebGL systems.
+** if you liked it please consider giving a star 🌟
