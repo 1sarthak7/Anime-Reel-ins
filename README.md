@@ -6,7 +6,7 @@
 
 # Anime Reel Ins
 
-### Cinematic WebGL × Gesture Interaction Experience
+### WebGL × Gesture Interaction 
 
 <br/>
 
