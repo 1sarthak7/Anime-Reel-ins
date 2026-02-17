@@ -137,14 +137,16 @@ Every animation state modifies:
 
 ---
 
-# Author
+## 💗 Crafted with Heart by  
+### **Sarthak Bhopale**
 
-Designed and Developed by
+<p>
+  <a href="https://github.com/1sarthak7">
+    <img src="https://img.shields.io/badge/Follow%20on-GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
-Sarthak Bhopale
-
-GitHub:
-[https://github.com/1sarthak7](https://github.com/1sarthak7)
-
+</div>
+</div>
 ---
 ** if you liked it please consider giving a star 🌟
