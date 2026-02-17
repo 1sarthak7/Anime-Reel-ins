@@ -138,7 +138,7 @@ Every animation state modifies:
 ---
 <div align="center">
   
-## 💗 Crafted with Heart by  
+## ❤️ Crafted with Heart by  
 ### **Sarthak Bhopale**
 
 <p>
