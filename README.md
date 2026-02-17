@@ -136,7 +136,8 @@ Every animation state modifies:
 * Gesture combination chaining
 
 ---
-
+<div align="center">
+  
 ## 💗 Crafted with Heart by  
 ### **Sarthak Bhopale**
 
@@ -148,5 +149,7 @@ Every animation state modifies:
 
 </div>
 </div>
+
 ---
+
 ** if you liked it please consider giving a star 🌟
